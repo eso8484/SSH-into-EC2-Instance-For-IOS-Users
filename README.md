@@ -32,14 +32,15 @@ This guide walks you through connecting to your AWS EC2 instance from an iPhone 
 
 - Tap `Keychain` → `+` → **Import Key**.
 - Select your `.pem` file from iCloud Drive, Files app, or AirDrop it in.
+
 <div align="center">
      <img src='photo_1_2025-04-13_11-41-57.jpg'>
     
      <img src='photo_2_2025-04-13_11-41-57.jpg'>
 
-     <img src=' photo_3_2025-04-13_11-41-57.jpg'>
+     <img src='photo_3_2025-04-13_11-41-57.jpg'>
 
-     <img src=' photo_4_2025-04-13_11-41-57.jpg'>
+     <img src='photo_4_2025-04-13_11-41-57.jpg'>
 </div>
 
 > 💡 Give the key a clear name like `aws-key-ec2.pem`.
