@@ -92,6 +92,6 @@ This guide walks you through connecting to your AWS EC2 instance from an iPhone 
 
 ## 🗺️ Visual Demostration guide
 
-- [Use this video guide for simplicity](SSH_Into_EC2_For_IOS_Users.mp4)
+- [Use this video guide for simplicity](https://github.com/eso8484/SSH-into-EC2-Instance-For-IOS-Users/raw/refs/heads/main/SSH_Into_EC2_For_IOS_Users.mp4)
 
-
+i
