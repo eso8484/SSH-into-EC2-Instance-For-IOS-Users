@@ -22,7 +22,9 @@ This guide walks you through connecting to your AWS EC2 instance from an iPhone 
 - Download **Termius** from the App Store.
 - Open the app and choose **Guest Mode** or sign in.
 
-**📸 ![Home Screen of Termius App](./photo_3_2025-04-13_10-13-49.jpg)
+<div align="center">
+    <img scr='photo_3_2025-04-13_10-13-49.jpg'/>
+</div>
 
 ---
 
