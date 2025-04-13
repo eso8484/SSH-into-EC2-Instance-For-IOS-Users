@@ -20,7 +20,7 @@ This guide walks you through connecting to your AWS EC2 instance from an iPhone 
 ### 🔹 1. Install & Launch Termius
 
 - Download **Termius** from the App Store.
-- Open the app and choose **Guest Mode** or sign in.
+- Open the app and choose **Guest Mode** or sign in as shown in the image.
 
 <div align="center">
     <img src='photo_3_2025-04-13_10-13-49.jpg'>
@@ -33,7 +33,12 @@ This guide walks you through connecting to your AWS EC2 instance from an iPhone 
 - Tap `Keychain` → `+` → **Import Key**.
 - Select your `.pem` file from iCloud Drive, Files app, or AirDrop it in.
 
-**📸 Placeholder for screenshot of importing a key**
+<div align="center">
+    <video width="320" height="240" controls>
+          <source src="SSH_Into_EC2_For_IOS_Users.mp4" type="video/mp4">
+    </video>
+
+ </div>
 
 > 💡 Give the key a clear name like `aws-key-ec2.pem`.
 
