@@ -58,8 +58,8 @@ This guide walks you through connecting to your AWS EC2 instance from an iPhone 
 | Use Key     | Select the key you just added |
 
 <div align="center">
-        <img src='photo_1_2025-04-13_11-41-57.jpg'>
-        <img src='photo_4_2025-04-13_11-41-57.jpg'>
+        <img src='photo_1_2025-04-13_10-13-49.jpg'>
+        <img src='photo_4_2025-04-13_10-13-49.jpg'>
 </div>
 ---
 
