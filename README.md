@@ -57,8 +57,10 @@ This guide walks you through connecting to your AWS EC2 instance from an iPhone 
 | Username    | ubuntu / ec2-user             |
 | Use Key     | Select the key you just added |
 
-**📸 Placeholder for screenshot of host configuration**
-
+<div align="center">
+        <img src='photo_1_2025-04-13_11-41-57.jpg'>
+        <img src='photo_4_2025-04-13_11-41-57.jpg'>
+</div>
 ---
 
 ### 🔹 4. Connect!
