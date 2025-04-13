@@ -23,7 +23,7 @@ This guide walks you through connecting to your AWS EC2 instance from an iPhone 
 - Open the app and choose **Guest Mode** or sign in.
 
 <div align="center">
-    <img scr='photo_3_2025-04-13_10-13-49.jpg'/>
+    <img src='photo_3_2025-04-13_10-13-49.jpg'>
 </div>
 
 ---
