@@ -35,10 +35,9 @@ This guide walks you through connecting to your AWS EC2 instance from an iPhone 
 
 <div align="center">
      <img src='photo_1_2025-04-13_11-41-57.jpg'>
-
 </div>
 
-> 💡 Give the key a clear name like `aws-key-ec2.pem`.
+💡 Give the key a clear name like `aws-key-ec2.pem`.
 
 ---
 
